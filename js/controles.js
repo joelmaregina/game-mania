@@ -22,7 +22,7 @@ let listaProdutos = [
         parcelas: "12"
     },
     {
-        imagem: "img/ControlLights.jpeg",
+        imagem: "img/controlLights.jpeg",
         alt: "Foto de Controle Luminoso",
         nomeProduto: "Controle Lights X7",
         preco: "R$ 779,99",
