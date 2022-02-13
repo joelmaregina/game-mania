@@ -31,7 +31,7 @@ let listaProdutos = [
     {
         imagem: "img/controlWhiteGenX.jpeg",
         alt: "Foto do controle Universal Gen X",
-        nomeProduto: "controle Universal Gen X",
+        nomeProduto: "Controle Universal Gen X",
         preco: "R$ 819,98",
         parcelas: "12"
     },
